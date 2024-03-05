@@ -26,4 +26,4 @@
 
 #### Defined in
 
-[src/components/OrgAdminListCard/OrgAdminListCard.tsx:29](https://github.com/PalisadoesFoundation/talawa-admin/blob/12d9229/src/components/OrgAdminListCard/OrgAdminListCard.tsx#L29)
+[src/components/OrgAdminListCard/OrgAdminListCard.tsx:21](https://github.com/Hasnain01-hub/talawa-admin/blob/e186ed2/src/components/OrgAdminListCard/OrgAdminListCard.tsx#L21)
